@@ -1,0 +1,9 @@
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello2\bin\Debug\Hello2.exe.config
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello2\bin\Debug\Hello2.exe
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello2\bin\Debug\Hello2.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello2\obj\Debug\Hello2.csprojAssemblyReference.cache
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello2\obj\Debug\Hello2.Form1.resources
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello2\obj\Debug\Hello2.Properties.Resources.resources
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello2\obj\Debug\Hello2.csproj.GenerateResource.cache
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello2\obj\Debug\Hello2.exe
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello2\obj\Debug\Hello2.pdb

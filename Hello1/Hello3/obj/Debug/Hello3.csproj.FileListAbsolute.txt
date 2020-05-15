@@ -1,0 +1,9 @@
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello3\bin\Debug\Hello3.exe.config
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello3\bin\Debug\Hello3.exe
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello3\bin\Debug\Hello3.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello3\obj\Debug\Hello3.csprojAssemblyReference.cache
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello3\obj\Debug\Hello3.Form1.resources
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello3\obj\Debug\Hello3.Properties.Resources.resources
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello3\obj\Debug\Hello3.csproj.GenerateResource.cache
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello3\obj\Debug\Hello3.exe
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\Hello1\Hello3\obj\Debug\Hello3.pdb
